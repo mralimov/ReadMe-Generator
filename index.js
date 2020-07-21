@@ -41,10 +41,10 @@ function promptUser(){
    type: 'checkbox',
    message: 'Please select a license',
    choices: [
-       "Apache",
-       "MIT",
-       "ISC",
-       "GNU GPLv3"
+       "1",
+       "2",
+       "3",
+       "4"
    ],
    name: "license"
  },
